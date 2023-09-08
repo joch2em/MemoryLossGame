@@ -1,2 +1,2 @@
 # MemoryLossGame
-gamejam submission
+my beginners gamejam submission
